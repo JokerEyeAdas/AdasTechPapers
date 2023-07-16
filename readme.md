@@ -1,5 +1,8 @@
 # 公众号《ADAS之眼》开源Sensor论文合集
 `* 收集不易，感兴趣或对您有帮助可以给个 ‘星星’ or ‘赞赏’`
+## WeChat&知乎：ADAS之眼
+![wechat](./imgs/wechat.png)
+
 ## 1.Onsemi 论文
 
 |index|paper|date|info|
