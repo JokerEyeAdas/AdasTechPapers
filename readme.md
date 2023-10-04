@@ -1,11 +1,14 @@
 # ADAS Technology Papers
+
 `* 收集不易，感兴趣或对您有帮助可以给个 ‘星星’ or ‘赞赏’`
+
 ## WeChat&知乎：ADAS之眼
+
 ![wechat](./0.img/wechat.png)
 
 **个人博客网站传送门：[ADAS之眼](https://jokereyeadas.github.io/)**
 
-****
+---
 
 # 1. CMOS Sensor
 ## 1.1 Onsemi Sensor Papers
@@ -56,3 +59,18 @@
 |index|paper|date|info|
 |---|---|---|---|
 |1|[Camera Radar Fusion for Increased Reliability in ADAS Applications](./4.SENSOR_FUSION/Camera%20Radar%20Fusion%20for%20Increased%20Reliability%20in%20ADAS%20Applications.pdf)|2023/07/30|TI Radar&Camera Fusion|
+
+# 5. Lidar
+
+|index|paper|date|info|
+|---|---|---|---|
+|1|[320 × 240 Back-Illuminated 10-µm CAPD Pixels](./5.LIDAR/320%20×%20240%20Back-Illuminated%2010-µm%20CAPD%20Pixels.pdf)|2023/10/07|IMX556|
+
+# 6. EVS
+
+|index|paper|date|info|
+|---|---|---|---|
+|1|[A 1280×720 Back-Illuminated Stacked Temporal](./6.EVS/A%201280×720%20Back-Illuminated%20Stacked%20Temporal.pdf)|2023/10/07|Sony EVS Sensor|
+
+
+----
